@@ -1,0 +1,1 @@
+concommand.Run("bin")

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/autumngmod/json/refs/heads/main/addon.scheme.json",
+  "name": "binloader-test",
+  "description": "Test of binloader library",
+  "authors": ["smokingplaya"],
+  "version": "0.1.0",
+  "githubRepo": "https://github.com/autumngmod/binloader-test",
+  "dependencies": {
+    "autumngmod/binloader": "0.1.0"
+  },
+  "side": ["server"]
+}
